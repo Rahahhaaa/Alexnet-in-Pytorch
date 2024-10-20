@@ -1,1 +1,1 @@
-# Implementation-of-ImageNet-classification-with-deep-convolutional-neural-networks
+# Alexnet-in-Pytorch
